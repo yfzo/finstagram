@@ -40,12 +40,12 @@ main {
   margin: 0 auto;
 }
 
-.new-finstagram-post {
+.new-post {
   text-align: center;
   margin-bottom: 2em;
 }
 
-.new-finstagram-post > .button {
+.new-post > .button {
   display: inline-block;
   padding: 1em;
   width: 100%;

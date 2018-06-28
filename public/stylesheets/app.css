@@ -1,0 +1,36 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info {
+    margin-bottom: 12px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+
+a.photo:hover{
+    padding: 10px;
+    transition: padding 0.5s;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
